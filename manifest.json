@@ -1,0 +1,10 @@
+{
+	"id": "right-click-task-status",
+	"name": "Right-Click Task Status",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Right-click any task in a note to set its status. Works with the Tasks plugin: uses your Tasks statuses, done and cancelled dates, and creates the next recurring task.",
+	"author": "Totolici Alexandru",
+	"authorUrl": "https://github.com/toto1384",
+	"isDesktopOnly": false
+}

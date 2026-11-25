@@ -1,0 +1,6 @@
+/* Right-Click Task Status: settings. The menus use Obsidian's own styling. */
+.rcts-symbol {
+  width: 3em;
+  text-align: center;
+  font-family: var(--font-monospace);
+}
